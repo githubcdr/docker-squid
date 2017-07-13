@@ -1,0 +1,2 @@
+#!/bin/sh
+exec squid -N 2>&1
