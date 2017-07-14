@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER Taco Hamers me_codar.nl
+MAINTAINER me codar nl
 
 RUN apk add --update --no-cache curl ca-certificates s6 squid
 
