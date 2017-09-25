@@ -2,7 +2,7 @@
 
 Minimal squid installation based on Alpine Linux at 7mb.
 
-* Caching disabled
+* Caching limited to 128mb
 * Absolute minimal config
 * Logging disabled
 
